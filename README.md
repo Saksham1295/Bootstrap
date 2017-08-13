@@ -13,8 +13,8 @@ HTML -:
 
 CSS -:
 
-style.css
-bootstrap.min.css
+1. style.css
+2. bootstrap.min.css
 
 JS -:
 bootstrap.js

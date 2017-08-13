@@ -14,6 +14,10 @@ HTML -:
 CSS -:
 
 style.css
+bootstrap.min.css
+
+JS -:
+bootstrap.js
 
 Img -:
 
